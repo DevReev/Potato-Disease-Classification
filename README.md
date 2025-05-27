@@ -1,6 +1,10 @@
 # Potato Disease Classification
 
-## Setup for Python:
+## Custom CNN model trained with Tensorflow
+## Model deployed using Google Cloud Platform
+## Mobile app creted using React Native to obtain inferences 
 
-<img width="180" alt="Screenshot 2025-05-27 at 11 09 19 am" src="https://github.com/user-attachments/assets/e5593d17-57f2-4adf-9d1a-60623a0402af" />
+<img width="249" alt="Screenshot 2025-05-27 at 11 10 01 am" src="https://github.com/user-attachments/assets/3fa34c80-c2ba-480d-8f7c-12f5bdf4a922" />
+
+
 
